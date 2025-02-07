@@ -1,0 +1,25 @@
+{
+  "project": {
+    "name": "2025-hatchie-loosahatchie",
+    "slug": "2025-hatchie-loosahatchie"
+  },
+  "s3": {
+    "bucket": "",
+    "folder": "2025-hatchie-loosahatchie"
+  },
+  "google": {
+    "doc": [
+      {
+        "id": "",
+        "filepath": "src/data/copy.json"
+      }
+    ],
+    "sheet": [
+      {
+        "id": "",
+        "gid": "",
+        "filepath": ""
+      }
+    ]
+  }
+}

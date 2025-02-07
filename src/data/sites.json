@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31,
+          45.05
+        ]
+      },
+      "properties": {
+        "site_name": "Shingle Creek at Minneapolis",
+        "site_id": 5288705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8478,
+          44.7458
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River at Hastings",
+        "site_id": 5331580
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2519,
+          41.7806
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River at Clinton",
+        "site_id": 5420500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1821,
+          41.1781
+        ]
+      },
+      "properties": {
+        "site_name": "Iowa River at Wapello",
+        "site_id": 5465500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9596,
+          40.7278
+        ]
+      },
+      "properties": {
+        "site_name": "Des Moines River at Keosauqua",
+        "site_id": 5490500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6077,
+          39.6328
+        ]
+      },
+      "properties": {
+        "site_name": "Illinois River at Florence",
+        "site_id": 5586300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3711,
+          38.9511
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River below Grafton",
+        "site_id": 5587455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4632,
+          37.2203
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River at Thebes",
+        "site_id": 7022000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0583,
+          37.1792
+        ]
+      },
+      "properties": {
+        "site_name": "Ohio River at Olmsted",
+        "site_id": 3612600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8478,
+          33.3967
+        ]
+      },
+      "properties": {
+        "site_name": "Bogue Phalia near Leland (MS)",
+        "site_id": 7288650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9125,
+          32.3397
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River above Vicksburg",
+        "site_id": 322023090544500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3958,
+          30.7583
+        ]
+      },
+      "properties": {
+        "site_name": "Mississippi River near Francisville",
+        "site_id": 7373420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9778,
+          29.8569
+        ]
+      },
+      "properties": {
+        "site_name": "LA and Mississippi River at Belle Chass",
+        "site_id": 7374525
+      }
+    }
+  ]
+}

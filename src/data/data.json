@@ -1,0 +1,7724 @@
+[
+    {
+        "WY": 1973,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 478000,
+        "TONS": 550000,
+        "TONS_U90": 645000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1974,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 486000,
+        "TONS": 549000,
+        "TONS_U90": 628000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 494000,
+        "TONS": 549000,
+        "TONS_U90": 613000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 502000,
+        "TONS": 552000,
+        "TONS_U90": 604000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 507000,
+        "TONS": 550000,
+        "TONS_U90": 589000,
+        "RollingAvg": 601600
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 512000,
+        "TONS": 551000,
+        "TONS_U90": 583000,
+        "RollingAvg": 562000
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 518000,
+        "TONS": 555000,
+        "TONS_U90": 585000,
+        "RollingAvg": 562400
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 533000,
+        "TONS": 570000,
+        "TONS_U90": 601000,
+        "RollingAvg": 572600
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 548000,
+        "TONS": 585000,
+        "TONS_U90": 617000,
+        "RollingAvg": 560000
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 564000,
+        "TONS": 602000,
+        "TONS_U90": 637000,
+        "RollingAvg": 591600
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 577000,
+        "TONS": 613000,
+        "TONS_U90": 651000,
+        "RollingAvg": 574800
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 585000,
+        "TONS": 621000,
+        "TONS_U90": 660000,
+        "RollingAvg": 561400
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 578000,
+        "TONS": 618000,
+        "TONS_U90": 657000,
+        "RollingAvg": 553800
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 565000,
+        "TONS": 610000,
+        "TONS_U90": 659000,
+        "RollingAvg": 584200
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 547000,
+        "TONS": 596000,
+        "TONS_U90": 649000,
+        "RollingAvg": 570800
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 531000,
+        "TONS": 573000,
+        "TONS_U90": 622000,
+        "RollingAvg": 521200
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 510000,
+        "TONS": 551000,
+        "TONS_U90": 590000,
+        "RollingAvg": 535000
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 491000,
+        "TONS": 536000,
+        "TONS_U90": 577000,
+        "RollingAvg": 550600
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 470000,
+        "TONS": 516000,
+        "TONS_U90": 559000,
+        "RollingAvg": 568600
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 455000,
+        "TONS": 495000,
+        "TONS_U90": 533000,
+        "RollingAvg": 541200
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 449000,
+        "TONS": 481000,
+        "TONS_U90": 514000,
+        "RollingAvg": 570800
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 450000,
+        "TONS": 476000,
+        "TONS_U90": 502000,
+        "RollingAvg": 547800
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 453000,
+        "TONS": 476000,
+        "TONS_U90": 499000,
+        "RollingAvg": 489800
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 464000,
+        "TONS": 485000,
+        "TONS_U90": 507000,
+        "RollingAvg": 497000
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 468000,
+        "TONS": 487000,
+        "TONS_U90": 509000,
+        "RollingAvg": 560000
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 480000,
+        "TONS": 499000,
+        "TONS_U90": 520000,
+        "RollingAvg": 579600
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 492000,
+        "TONS": 512000,
+        "TONS_U90": 537000,
+        "RollingAvg": 530000
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 494000,
+        "TONS": 519000,
+        "TONS_U90": 546000,
+        "RollingAvg": 519200
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 504000,
+        "TONS": 529000,
+        "TONS_U90": 557000,
+        "RollingAvg": 464200
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 497000,
+        "TONS": 523000,
+        "TONS_U90": 550000,
+        "RollingAvg": 447600
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 497000,
+        "TONS": 523000,
+        "TONS_U90": 551000,
+        "RollingAvg": 455000
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 495000,
+        "TONS": 518000,
+        "TONS_U90": 545000,
+        "RollingAvg": 503400
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 494000,
+        "TONS": 515000,
+        "TONS_U90": 539000,
+        "RollingAvg": 541200
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 490000,
+        "TONS": 512000,
+        "TONS_U90": 533000,
+        "RollingAvg": 547000
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 489000,
+        "TONS": 511000,
+        "TONS_U90": 530000,
+        "RollingAvg": 527200
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 496000,
+        "TONS": 520000,
+        "TONS_U90": 539000,
+        "RollingAvg": 521200
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 488000,
+        "TONS": 511000,
+        "TONS_U90": 531000,
+        "RollingAvg": 481800
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 484000,
+        "TONS": 507000,
+        "TONS_U90": 526000,
+        "RollingAvg": 471400
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 482000,
+        "TONS": 504000,
+        "TONS_U90": 524000,
+        "RollingAvg": 499400
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 483000,
+        "TONS": 505000,
+        "TONS_U90": 523000,
+        "RollingAvg": 481000
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 478000,
+        "TONS": 500000,
+        "TONS_U90": 518000,
+        "RollingAvg": 466600
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 474000,
+        "TONS": 498000,
+        "TONS_U90": 518000,
+        "RollingAvg": 485400
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 471000,
+        "TONS": 495000,
+        "TONS_U90": 516000,
+        "RollingAvg": 493000
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 469000,
+        "TONS": 491000,
+        "TONS_U90": 512000,
+        "RollingAvg": 481800
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 459000,
+        "TONS": 479000,
+        "TONS_U90": 497000,
+        "RollingAvg": 515000
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 450000,
+        "TONS": 469000,
+        "TONS_U90": 485000,
+        "RollingAvg": 523800
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 437000,
+        "TONS": 459000,
+        "TONS_U90": 475000,
+        "RollingAvg": 576200
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 427000,
+        "TONS": 450000,
+        "TONS_U90": 466000,
+        "RollingAvg": 596200
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 412000,
+        "TONS": 436000,
+        "TONS_U90": 452000,
+        "RollingAvg": 584800
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TN",
+        "TONS_L90": 396000,
+        "TONS": 424000,
+        "TONS_U90": 442000,
+        "RollingAvg": 568200
+    },
+    {
+        "WY": 1968,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 17500,
+        "TONS": 24000,
+        "TONS_U90": 27700,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1969,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 20200,
+        "TONS": 27000,
+        "TONS_U90": 30900,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1970,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 23100,
+        "TONS": 30500,
+        "TONS_U90": 34800,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1971,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 26500,
+        "TONS": 34300,
+        "TONS_U90": 39700,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1972,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 30700,
+        "TONS": 38700,
+        "TONS_U90": 45000,
+        "RollingAvg": 23780
+    },
+    {
+        "WY": 1973,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 34900,
+        "TONS": 43400,
+        "TONS_U90": 50800,
+        "RollingAvg": 35740
+    },
+    {
+        "WY": 1974,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 40300,
+        "TONS": 49400,
+        "TONS_U90": 59000,
+        "RollingAvg": 52960
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 46700,
+        "TONS": 55600,
+        "TONS_U90": 66700,
+        "RollingAvg": 65900
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 50300,
+        "TONS": 58600,
+        "TONS_U90": 68100,
+        "RollingAvg": 69640
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 50400,
+        "TONS": 58200,
+        "TONS_U90": 65700,
+        "RollingAvg": 71240
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 49900,
+        "TONS": 57300,
+        "TONS_U90": 64400,
+        "RollingAvg": 69160
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 48800,
+        "TONS": 55900,
+        "TONS_U90": 63200,
+        "RollingAvg": 65240
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 46700,
+        "TONS": 54000,
+        "TONS_U90": 61400,
+        "RollingAvg": 60600
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 44100,
+        "TONS": 51400,
+        "TONS_U90": 58600,
+        "RollingAvg": 57740
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 43200,
+        "TONS": 50400,
+        "TONS_U90": 57700,
+        "RollingAvg": 58180
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 41100,
+        "TONS": 48500,
+        "TONS_U90": 55800,
+        "RollingAvg": 56420
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 41300,
+        "TONS": 48900,
+        "TONS_U90": 58200,
+        "RollingAvg": 49940
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 41200,
+        "TONS": 48900,
+        "TONS_U90": 60600,
+        "RollingAvg": 44780
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 38400,
+        "TONS": 46800,
+        "TONS_U90": 58900,
+        "RollingAvg": 44740
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 35600,
+        "TONS": 43700,
+        "TONS_U90": 54100,
+        "RollingAvg": 40380
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 33400,
+        "TONS": 41300,
+        "TONS_U90": 50100,
+        "RollingAvg": 32100
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 33500,
+        "TONS": 40600,
+        "TONS_U90": 49800,
+        "RollingAvg": 35380
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 34600,
+        "TONS": 41500,
+        "TONS_U90": 51100,
+        "RollingAvg": 36360
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 35400,
+        "TONS": 41900,
+        "TONS_U90": 50800,
+        "RollingAvg": 40600
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 36100,
+        "TONS": 41600,
+        "TONS_U90": 48500,
+        "RollingAvg": 40660
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 37300,
+        "TONS": 42000,
+        "TONS_U90": 47900,
+        "RollingAvg": 44820
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 39500,
+        "TONS": 43400,
+        "TONS_U90": 48300,
+        "RollingAvg": 45140
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 42700,
+        "TONS": 45600,
+        "TONS_U90": 49900,
+        "RollingAvg": 43240
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 45700,
+        "TONS": 48800,
+        "TONS_U90": 52900,
+        "RollingAvg": 44040
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 47100,
+        "TONS": 50600,
+        "TONS_U90": 54600,
+        "RollingAvg": 53320
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 49700,
+        "TONS": 53500,
+        "TONS_U90": 57900,
+        "RollingAvg": 56940
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51000,
+        "TONS": 55900,
+        "TONS_U90": 61200,
+        "RollingAvg": 50640
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51600,
+        "TONS": 57600,
+        "TONS_U90": 63600,
+        "RollingAvg": 51240
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52600,
+        "TONS": 59400,
+        "TONS_U90": 65500,
+        "RollingAvg": 46200
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51900,
+        "TONS": 59100,
+        "TONS_U90": 65400,
+        "RollingAvg": 45680
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52600,
+        "TONS": 59500,
+        "TONS_U90": 66000,
+        "RollingAvg": 47480
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52600,
+        "TONS": 58800,
+        "TONS_U90": 65400,
+        "RollingAvg": 54120
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52600,
+        "TONS": 58600,
+        "TONS_U90": 64200,
+        "RollingAvg": 59360
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52400,
+        "TONS": 58200,
+        "TONS_U90": 63200,
+        "RollingAvg": 60720
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52400,
+        "TONS": 58300,
+        "TONS_U90": 63100,
+        "RollingAvg": 59780
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 53400,
+        "TONS": 59600,
+        "TONS_U90": 64000,
+        "RollingAvg": 59380
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52700,
+        "TONS": 58500,
+        "TONS_U90": 62500,
+        "RollingAvg": 54660
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52600,
+        "TONS": 57900,
+        "TONS_U90": 61600,
+        "RollingAvg": 53200
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52500,
+        "TONS": 57800,
+        "TONS_U90": 61300,
+        "RollingAvg": 56520
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 52100,
+        "TONS": 57700,
+        "TONS_U90": 61200,
+        "RollingAvg": 52540
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51800,
+        "TONS": 57200,
+        "TONS_U90": 60600,
+        "RollingAvg": 49920
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51600,
+        "TONS": 57000,
+        "TONS_U90": 60900,
+        "RollingAvg": 51960
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51600,
+        "TONS": 56900,
+        "TONS_U90": 61200,
+        "RollingAvg": 53960
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51600,
+        "TONS": 57000,
+        "TONS_U90": 61400,
+        "RollingAvg": 52640
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51200,
+        "TONS": 56500,
+        "TONS_U90": 61100,
+        "RollingAvg": 55560
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 51000,
+        "TONS": 56300,
+        "TONS_U90": 61900,
+        "RollingAvg": 59920
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 50400,
+        "TONS": 56000,
+        "TONS_U90": 62200,
+        "RollingAvg": 68060
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 49700,
+        "TONS": 55800,
+        "TONS_U90": 63000,
+        "RollingAvg": 71300
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 48500,
+        "TONS": 54900,
+        "TONS_U90": 63300,
+        "RollingAvg": 71560
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 3612600,
+        "CONSTIT": "TP",
+        "TONS_L90": 47500,
+        "TONS": 54300,
+        "TONS_U90": 63800,
+        "RollingAvg": 74060
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 18.4,
+        "TONS": 19.5,
+        "TONS_U90": 22.4,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 18.2,
+        "TONS": 19.2,
+        "TONS_U90": 21.5,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 18,
+        "TONS": 18.8,
+        "TONS_U90": 20.8,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 17.8,
+        "TONS": 18.5,
+        "TONS_U90": 20,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 17.6,
+        "TONS": 18.2,
+        "TONS_U90": 19.3,
+        "RollingAvg": 18.862
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 17.2,
+        "TONS": 18,
+        "TONS_U90": 18.8,
+        "RollingAvg": 19.002
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 17,
+        "TONS": 17.8,
+        "TONS_U90": 18.6,
+        "RollingAvg": 21.022
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 16.7,
+        "TONS": 17.6,
+        "TONS_U90": 18.6,
+        "RollingAvg": 22.96
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 16.3,
+        "TONS": 17.5,
+        "TONS_U90": 18.7,
+        "RollingAvg": 20.58
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TN",
+        "TONS_L90": 16,
+        "TONS": 17.4,
+        "TONS_U90": 18.7,
+        "RollingAvg": 17.4
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.25,
+        "TONS": 1.57,
+        "TONS_U90": 1.74,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.32,
+        "TONS": 1.6,
+        "TONS_U90": 1.75,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.38,
+        "TONS": 1.62,
+        "TONS_U90": 1.76,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.43,
+        "TONS": 1.64,
+        "TONS_U90": 1.76,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.48,
+        "TONS": 1.66,
+        "TONS_U90": 1.79,
+        "RollingAvg": 1.936
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.53,
+        "TONS": 1.69,
+        "TONS_U90": 1.81,
+        "RollingAvg": 1.62
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.56,
+        "TONS": 1.72,
+        "TONS_U90": 1.86,
+        "RollingAvg": 1.438
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.54,
+        "TONS": 1.74,
+        "TONS_U90": 1.95,
+        "RollingAvg": 1.2618
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.53,
+        "TONS": 1.73,
+        "TONS_U90": 1.96,
+        "RollingAvg": 1.1202
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.57,
+        "TONS": 1.74,
+        "TONS_U90": 1.98,
+        "RollingAvg": 1.3302
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.61,
+        "TONS": 1.75,
+        "TONS_U90": 2,
+        "RollingAvg": 1.4122
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.57,
+        "TONS": 1.72,
+        "TONS_U90": 1.96,
+        "RollingAvg": 1.4522
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.53,
+        "TONS": 1.66,
+        "TONS_U90": 1.87,
+        "RollingAvg": 1.6984
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.47,
+        "TONS": 1.6,
+        "TONS_U90": 1.76,
+        "RollingAvg": 1.6762
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.42,
+        "TONS": 1.54,
+        "TONS_U90": 1.67,
+        "RollingAvg": 1.5202
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.34,
+        "TONS": 1.5,
+        "TONS_U90": 1.62,
+        "RollingAvg": 1.6102
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.29,
+        "TONS": 1.48,
+        "TONS_U90": 1.59,
+        "RollingAvg": 1.5982
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.24,
+        "TONS": 1.46,
+        "TONS_U90": 1.59,
+        "RollingAvg": 1.7982
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.19,
+        "TONS": 1.45,
+        "TONS_U90": 1.61,
+        "RollingAvg": 1.884
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.14,
+        "TONS": 1.43,
+        "TONS_U90": 1.63,
+        "RollingAvg": 1.5778
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5288705,
+        "CONSTIT": "TP",
+        "TONS_L90": 1.09,
+        "TONS": 1.42,
+        "TONS_U90": 1.67,
+        "RollingAvg": 1.3634
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 80500,
+        "TONS": 109000,
+        "TONS_U90": 136000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 83800,
+        "TONS": 107000,
+        "TONS_U90": 129000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 85500,
+        "TONS": 104000,
+        "TONS_U90": 121000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 86400,
+        "TONS": 101000,
+        "TONS_U90": 115000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 86100,
+        "TONS": 97700,
+        "TONS_U90": 109000,
+        "RollingAvg": 92880
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 84300,
+        "TONS": 94100,
+        "TONS_U90": 103000,
+        "RollingAvg": 104000
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 80300,
+        "TONS": 90100,
+        "TONS_U90": 96900,
+        "RollingAvg": 116640
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 74900,
+        "TONS": 86000,
+        "TONS_U90": 92800,
+        "RollingAvg": 128000
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 69100,
+        "TONS": 81600,
+        "TONS_U90": 90300,
+        "RollingAvg": 107420
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TN",
+        "TONS_L90": 63300,
+        "TONS": 77200,
+        "TONS_U90": 88800,
+        "RollingAvg": 92560
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 3040,
+        "TONS": 3430,
+        "TONS_U90": 3910,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2950,
+        "TONS": 3310,
+        "TONS_U90": 3730,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2880,
+        "TONS": 3180,
+        "TONS_U90": 3540,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2800,
+        "TONS": 3070,
+        "TONS_U90": 3410,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2690,
+        "TONS": 2950,
+        "TONS_U90": 3310,
+        "RollingAvg": 2690
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2600,
+        "TONS": 2860,
+        "TONS_U90": 3210,
+        "RollingAvg": 3094
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2510,
+        "TONS": 2770,
+        "TONS_U90": 3150,
+        "RollingAvg": 3538
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2420,
+        "TONS": 2700,
+        "TONS_U90": 3130,
+        "RollingAvg": 3782
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2310,
+        "TONS": 2610,
+        "TONS_U90": 3100,
+        "RollingAvg": 3375
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5331580,
+        "CONSTIT": "TP",
+        "TONS_L90": 2210,
+        "TONS": 2540,
+        "TONS_U90": 3110,
+        "RollingAvg": 3239
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 98100,
+        "TONS": 116000,
+        "TONS_U90": 140000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 105000,
+        "TONS": 121000,
+        "TONS_U90": 142000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 112000,
+        "TONS": 126000,
+        "TONS_U90": 145000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 119000,
+        "TONS": 131000,
+        "TONS_U90": 147000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 124000,
+        "TONS": 136000,
+        "TONS_U90": 148000,
+        "RollingAvg": 98340
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 130000,
+        "TONS": 140000,
+        "TONS_U90": 152000,
+        "RollingAvg": 98140
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 135000,
+        "TONS": 144000,
+        "TONS_U90": 155000,
+        "RollingAvg": 104780
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 147000,
+        "TONS_U90": 157000,
+        "RollingAvg": 127600
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 147000,
+        "TONS_U90": 155000,
+        "RollingAvg": 149000
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 134000,
+        "TONS": 146000,
+        "TONS_U90": 154000,
+        "RollingAvg": 153200
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 132000,
+        "TONS": 147000,
+        "TONS_U90": 159000,
+        "RollingAvg": 162200
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 155000,
+        "TONS_U90": 171000,
+        "RollingAvg": 183000
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 146000,
+        "TONS": 158000,
+        "TONS_U90": 175000,
+        "RollingAvg": 183000
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 150000,
+        "TONS": 165000,
+        "TONS_U90": 188000,
+        "RollingAvg": 154020
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 164000,
+        "TONS": 177000,
+        "TONS_U90": 213000,
+        "RollingAvg": 156020
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 156000,
+        "TONS": 171000,
+        "TONS_U90": 197000,
+        "RollingAvg": 161820
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 146000,
+        "TONS": 162000,
+        "TONS_U90": 177000,
+        "RollingAvg": 181020
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 155000,
+        "TONS_U90": 167000,
+        "RollingAvg": 183220
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 133000,
+        "TONS": 149000,
+        "TONS_U90": 162000,
+        "RollingAvg": 204200
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 130000,
+        "TONS": 145000,
+        "TONS_U90": 159000,
+        "RollingAvg": 194200
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 123000,
+        "TONS": 138000,
+        "TONS_U90": 150000,
+        "RollingAvg": 186600
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 121000,
+        "TONS": 136000,
+        "TONS_U90": 146000,
+        "RollingAvg": 155600
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 126000,
+        "TONS": 138000,
+        "TONS_U90": 148000,
+        "RollingAvg": 161800
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 129000,
+        "TONS": 140000,
+        "TONS_U90": 150000,
+        "RollingAvg": 148200
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 148000,
+        "TONS_U90": 160000,
+        "RollingAvg": 157400
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 147000,
+        "TONS": 158000,
+        "TONS_U90": 171000,
+        "RollingAvg": 154000
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 152000,
+        "TONS": 162000,
+        "TONS_U90": 176000,
+        "RollingAvg": 147400
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 157000,
+        "TONS": 167000,
+        "TONS_U90": 180000,
+        "RollingAvg": 138000
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 162000,
+        "TONS": 173000,
+        "TONS_U90": 185000,
+        "RollingAvg": 143200
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 162000,
+        "TONS": 172000,
+        "TONS_U90": 184000,
+        "RollingAvg": 135000
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 172000,
+        "TONS": 182000,
+        "TONS_U90": 195000,
+        "RollingAvg": 132600
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 179000,
+        "TONS": 190000,
+        "TONS_U90": 202000,
+        "RollingAvg": 154400
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 178000,
+        "TONS": 187000,
+        "TONS_U90": 197000,
+        "RollingAvg": 145860
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 173000,
+        "TONS": 183000,
+        "TONS_U90": 193000,
+        "RollingAvg": 157660
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 170000,
+        "TONS": 180000,
+        "TONS_U90": 190000,
+        "RollingAvg": 182460
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 169000,
+        "TONS": 179000,
+        "TONS_U90": 188000,
+        "RollingAvg": 178200
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 168000,
+        "TONS": 177000,
+        "TONS_U90": 187000,
+        "RollingAvg": 170400
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 168000,
+        "TONS": 176000,
+        "TONS_U90": 186000,
+        "RollingAvg": 191140
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 167000,
+        "TONS": 175000,
+        "TONS_U90": 185000,
+        "RollingAvg": 175940
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 165000,
+        "TONS": 174000,
+        "TONS_U90": 182000,
+        "RollingAvg": 167340
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 163000,
+        "TONS": 171000,
+        "TONS_U90": 179000,
+        "RollingAvg": 201200
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 159000,
+        "TONS": 168000,
+        "TONS_U90": 175000,
+        "RollingAvg": 209800
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 155000,
+        "TONS": 166000,
+        "TONS_U90": 173000,
+        "RollingAvg": 234400
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 149000,
+        "TONS": 163000,
+        "TONS_U90": 170000,
+        "RollingAvg": 263400
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 143000,
+        "TONS": 159000,
+        "TONS_U90": 167000,
+        "RollingAvg": 239200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 155000,
+        "TONS_U90": 165000,
+        "RollingAvg": 211200
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9500,
+        "TONS": 11200,
+        "TONS_U90": 12800,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9470,
+        "TONS": 11100,
+        "TONS_U90": 12500,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9620,
+        "TONS": 11000,
+        "TONS_U90": 12400,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9540,
+        "TONS": 10900,
+        "TONS_U90": 12200,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9460,
+        "TONS": 10700,
+        "TONS_U90": 12000,
+        "RollingAvg": 7944
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9390,
+        "TONS": 10600,
+        "TONS_U90": 11900,
+        "RollingAvg": 8006
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9100,
+        "TONS": 10200,
+        "TONS_U90": 11500,
+        "RollingAvg": 8662
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8740,
+        "TONS": 9880,
+        "TONS_U90": 11100,
+        "RollingAvg": 9472
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8310,
+        "TONS": 9490,
+        "TONS_U90": 10600,
+        "RollingAvg": 9934
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8060,
+        "TONS": 9160,
+        "TONS_U90": 10300,
+        "RollingAvg": 9994
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7740,
+        "TONS": 8860,
+        "TONS_U90": 10100,
+        "RollingAvg": 10274
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7840,
+        "TONS": 8830,
+        "TONS_U90": 9940,
+        "RollingAvg": 10714
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7030,
+        "TONS": 8440,
+        "TONS_U90": 9560,
+        "RollingAvg": 11028
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7040,
+        "TONS": 8490,
+        "TONS_U90": 9580,
+        "RollingAvg": 10210
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7050,
+        "TONS": 8450,
+        "TONS_U90": 9370,
+        "RollingAvg": 11590
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7270,
+        "TONS": 8420,
+        "TONS_U90": 9200,
+        "RollingAvg": 11394
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7540,
+        "TONS": 8400,
+        "TONS_U90": 9140,
+        "RollingAvg": 10852
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7780,
+        "TONS": 8500,
+        "TONS_U90": 9250,
+        "RollingAvg": 10824
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7740,
+        "TONS": 8390,
+        "TONS_U90": 9100,
+        "RollingAvg": 10926
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7770,
+        "TONS": 8550,
+        "TONS_U90": 9220,
+        "RollingAvg": 9004
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7980,
+        "TONS": 8890,
+        "TONS_U90": 9540,
+        "RollingAvg": 8988
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8190,
+        "TONS": 9120,
+        "TONS_U90": 9790,
+        "RollingAvg": 8742
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8710,
+        "TONS": 9740,
+        "TONS_U90": 10500,
+        "RollingAvg": 9082
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9160,
+        "TONS": 10400,
+        "TONS_U90": 11400,
+        "RollingAvg": 9518
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9370,
+        "TONS": 10700,
+        "TONS_U90": 11800,
+        "RollingAvg": 9504
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9790,
+        "TONS": 11000,
+        "TONS_U90": 12100,
+        "RollingAvg": 9556
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 10200,
+        "TONS": 11300,
+        "TONS_U90": 12400,
+        "RollingAvg": 9456
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 10100,
+        "TONS": 11000,
+        "TONS_U90": 11900,
+        "RollingAvg": 8674
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 10300,
+        "TONS": 11400,
+        "TONS_U90": 12500,
+        "RollingAvg": 8036
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 10400,
+        "TONS": 11400,
+        "TONS_U90": 12500,
+        "RollingAvg": 8912
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 10100,
+        "TONS": 11000,
+        "TONS_U90": 11800,
+        "RollingAvg": 8300
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9870,
+        "TONS": 10700,
+        "TONS_U90": 11500,
+        "RollingAvg": 8968
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9700,
+        "TONS": 10500,
+        "TONS_U90": 11300,
+        "RollingAvg": 10530
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9390,
+        "TONS": 10200,
+        "TONS_U90": 11000,
+        "RollingAvg": 10384
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9110,
+        "TONS": 9900,
+        "TONS_U90": 10600,
+        "RollingAvg": 10004
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 9050,
+        "TONS": 9760,
+        "TONS_U90": 10500,
+        "RollingAvg": 11296
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8940,
+        "TONS": 9670,
+        "TONS_U90": 10500,
+        "RollingAvg": 10158
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8890,
+        "TONS": 9580,
+        "TONS_U90": 10400,
+        "RollingAvg": 9378
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8710,
+        "TONS": 9370,
+        "TONS_U90": 10100,
+        "RollingAvg": 10402
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8560,
+        "TONS": 9190,
+        "TONS_U90": 9860,
+        "RollingAvg": 10922
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8400,
+        "TONS": 9040,
+        "TONS_U90": 9750,
+        "RollingAvg": 12322
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 8180,
+        "TONS": 8920,
+        "TONS_U90": 9650,
+        "RollingAvg": 13900
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7970,
+        "TONS": 8780,
+        "TONS_U90": 9560,
+        "RollingAvg": 12944
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5420500,
+        "CONSTIT": "TP",
+        "TONS_L90": 7780,
+        "TONS": 8670,
+        "TONS_U90": 9510,
+        "RollingAvg": 11992
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67000,
+        "TONS": 77600,
+        "TONS_U90": 83300,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67900,
+        "TONS": 77900,
+        "TONS_U90": 83000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 69200,
+        "TONS": 78800,
+        "TONS_U90": 83700,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 70100,
+        "TONS": 79000,
+        "TONS_U90": 83300,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71400,
+        "TONS": 79600,
+        "TONS_U90": 83800,
+        "RollingAvg": 68800
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 73500,
+        "TONS": 80700,
+        "TONS_U90": 85700,
+        "RollingAvg": 85060
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 75400,
+        "TONS": 82300,
+        "TONS_U90": 87800,
+        "RollingAvg": 89620
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 76600,
+        "TONS": 82500,
+        "TONS_U90": 87800,
+        "RollingAvg": 86120
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 76900,
+        "TONS": 82500,
+        "TONS_U90": 88600,
+        "RollingAvg": 98120
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 74700,
+        "TONS": 81300,
+        "TONS_U90": 87900,
+        "RollingAvg": 90940
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71800,
+        "TONS": 79900,
+        "TONS_U90": 87400,
+        "RollingAvg": 66820
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 69100,
+        "TONS": 78100,
+        "TONS_U90": 85700,
+        "RollingAvg": 46728
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67600,
+        "TONS": 77100,
+        "TONS_U90": 85300,
+        "RollingAvg": 54708
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 65300,
+        "TONS": 75300,
+        "TONS_U90": 83600,
+        "RollingAvg": 56508
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 65200,
+        "TONS": 74300,
+        "TONS_U90": 82700,
+        "RollingAvg": 61908
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64900,
+        "TONS": 73600,
+        "TONS_U90": 81300,
+        "RollingAvg": 95628
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64900,
+        "TONS": 73100,
+        "TONS_U90": 80400,
+        "RollingAvg": 104280
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64300,
+        "TONS": 72600,
+        "TONS_U90": 78800,
+        "RollingAvg": 104460
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 66300,
+        "TONS": 75000,
+        "TONS_U90": 81000,
+        "RollingAvg": 93220
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67100,
+        "TONS": 75400,
+        "TONS_U90": 80700,
+        "RollingAvg": 87940
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 74000,
+        "TONS": 82500,
+        "TONS_U90": 88800,
+        "RollingAvg": 71340
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 77200,
+        "TONS": 84800,
+        "TONS_U90": 91000,
+        "RollingAvg": 86180
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 79200,
+        "TONS": 86100,
+        "TONS_U90": 92100,
+        "RollingAvg": 79680
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 84400,
+        "TONS": 90800,
+        "TONS_U90": 97600,
+        "RollingAvg": 87460
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 85500,
+        "TONS": 92500,
+        "TONS_U90": 99600,
+        "RollingAvg": 82160
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 80300,
+        "TONS": 89300,
+        "TONS_U90": 96400,
+        "RollingAvg": 68900
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 77500,
+        "TONS": 87100,
+        "TONS_U90": 93500,
+        "RollingAvg": 58360
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 76000,
+        "TONS": 85700,
+        "TONS_U90": 92400,
+        "RollingAvg": 60140
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 70100,
+        "TONS": 79200,
+        "TONS_U90": 86200,
+        "RollingAvg": 49660
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 72600,
+        "TONS": 81900,
+        "TONS_U90": 89500,
+        "RollingAvg": 65260
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 73100,
+        "TONS": 81800,
+        "TONS_U90": 89400,
+        "RollingAvg": 84920
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71600,
+        "TONS": 79600,
+        "TONS_U90": 86000,
+        "RollingAvg": 87880
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71700,
+        "TONS": 78400,
+        "TONS_U90": 83400,
+        "RollingAvg": 101680
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 73600,
+        "TONS": 78900,
+        "TONS_U90": 83000,
+        "RollingAvg": 111040
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 76200,
+        "TONS": 80400,
+        "TONS_U90": 84200,
+        "RollingAvg": 93420
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 77800,
+        "TONS": 81500,
+        "TONS_U90": 86100,
+        "RollingAvg": 88620
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 77700,
+        "TONS": 82000,
+        "TONS_U90": 87900,
+        "RollingAvg": 85980
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 76300,
+        "TONS": 81700,
+        "TONS_U90": 88300,
+        "RollingAvg": 75560
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 74200,
+        "TONS": 80300,
+        "TONS_U90": 86300,
+        "RollingAvg": 84540
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71900,
+        "TONS": 78700,
+        "TONS_U90": 85200,
+        "RollingAvg": 99760
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 69700,
+        "TONS": 77300,
+        "TONS_U90": 84600,
+        "RollingAvg": 92000
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67400,
+        "TONS": 75700,
+        "TONS_U90": 83800,
+        "RollingAvg": 100220
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64800,
+        "TONS": 74200,
+        "TONS_U90": 83600,
+        "RollingAvg": 105220
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 61700,
+        "TONS": 72200,
+        "TONS_U90": 83000,
+        "RollingAvg": 84920
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TN",
+        "TONS_L90": 59100,
+        "TONS": 70500,
+        "TONS_U90": 82800,
+        "RollingAvg": 75080
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2830,
+        "TONS": 3820,
+        "TONS_U90": 4660,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2800,
+        "TONS": 3750,
+        "TONS_U90": 4520,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2800,
+        "TONS": 3720,
+        "TONS_U90": 4490,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2770,
+        "TONS": 3650,
+        "TONS_U90": 4390,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2790,
+        "TONS": 3610,
+        "TONS_U90": 4340,
+        "RollingAvg": 3346
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2790,
+        "TONS": 3580,
+        "TONS_U90": 4340,
+        "RollingAvg": 3586
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2840,
+        "TONS": 3590,
+        "TONS_U90": 4380,
+        "RollingAvg": 3552
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2780,
+        "TONS": 3550,
+        "TONS_U90": 4340,
+        "RollingAvg": 3492
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2660,
+        "TONS": 3490,
+        "TONS_U90": 4240,
+        "RollingAvg": 3896
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2620,
+        "TONS": 3400,
+        "TONS_U90": 4110,
+        "RollingAvg": 3404
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2540,
+        "TONS": 3300,
+        "TONS_U90": 3940,
+        "RollingAvg": 2692
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2500,
+        "TONS": 3210,
+        "TONS_U90": 3780,
+        "RollingAvg": 2164.6
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2470,
+        "TONS": 3160,
+        "TONS_U90": 3670,
+        "RollingAvg": 2308.6
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2430,
+        "TONS": 3040,
+        "TONS_U90": 3480,
+        "RollingAvg": 2166.6
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2430,
+        "TONS": 2960,
+        "TONS_U90": 3380,
+        "RollingAvg": 2236.6
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2520,
+        "TONS": 2970,
+        "TONS_U90": 3430,
+        "RollingAvg": 3790.6
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2590,
+        "TONS": 3040,
+        "TONS_U90": 3490,
+        "RollingAvg": 4112
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2680,
+        "TONS": 3120,
+        "TONS_U90": 3580,
+        "RollingAvg": 3964
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 2840,
+        "TONS": 3340,
+        "TONS_U90": 3820,
+        "RollingAvg": 3746
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3060,
+        "TONS": 3530,
+        "TONS_U90": 4050,
+        "RollingAvg": 3986
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3500,
+        "TONS": 4030,
+        "TONS_U90": 4630,
+        "RollingAvg": 2988
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3680,
+        "TONS": 4250,
+        "TONS_U90": 4940,
+        "RollingAvg": 3480
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3670,
+        "TONS": 4290,
+        "TONS_U90": 4980,
+        "RollingAvg": 3552
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3680,
+        "TONS": 4370,
+        "TONS_U90": 5000,
+        "RollingAvg": 3926
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3680,
+        "TONS": 4320,
+        "TONS_U90": 4840,
+        "RollingAvg": 3656
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3550,
+        "TONS": 4170,
+        "TONS_U90": 4620,
+        "RollingAvg": 3262
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3680,
+        "TONS": 4270,
+        "TONS_U90": 4790,
+        "RollingAvg": 2902
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3730,
+        "TONS": 4330,
+        "TONS_U90": 4840,
+        "RollingAvg": 2828
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3480,
+        "TONS": 3940,
+        "TONS_U90": 4310,
+        "RollingAvg": 2320
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3610,
+        "TONS": 4040,
+        "TONS_U90": 4360,
+        "RollingAvg": 2698
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3750,
+        "TONS": 4070,
+        "TONS_U90": 4350,
+        "RollingAvg": 3896
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3810,
+        "TONS": 4120,
+        "TONS_U90": 4430,
+        "RollingAvg": 4350
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3920,
+        "TONS": 4240,
+        "TONS_U90": 4580,
+        "RollingAvg": 5162
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 4000,
+        "TONS": 4400,
+        "TONS_U90": 4770,
+        "RollingAvg": 5546
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 4060,
+        "TONS": 4520,
+        "TONS_U90": 4930,
+        "RollingAvg": 4964
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 4050,
+        "TONS": 4600,
+        "TONS_U90": 5070,
+        "RollingAvg": 4406
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 4060,
+        "TONS": 4680,
+        "TONS_U90": 5200,
+        "RollingAvg": 4380
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 4010,
+        "TONS": 4730,
+        "TONS_U90": 5310,
+        "RollingAvg": 3994
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3980,
+        "TONS": 4730,
+        "TONS_U90": 5320,
+        "RollingAvg": 4602
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3880,
+        "TONS": 4630,
+        "TONS_U90": 5170,
+        "RollingAvg": 5168
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3830,
+        "TONS": 4550,
+        "TONS_U90": 5060,
+        "RollingAvg": 5264
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3750,
+        "TONS": 4470,
+        "TONS_U90": 4980,
+        "RollingAvg": 5764
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3640,
+        "TONS": 4400,
+        "TONS_U90": 4880,
+        "RollingAvg": 5834
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3530,
+        "TONS": 4310,
+        "TONS_U90": 4770,
+        "RollingAvg": 4908
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5465500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3430,
+        "TONS": 4220,
+        "TONS_U90": 4700,
+        "RollingAvg": 4528
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 74400,
+        "TONS": 85700,
+        "TONS_U90": 109000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 71600,
+        "TONS": 81700,
+        "TONS_U90": 101000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 68900,
+        "TONS": 78500,
+        "TONS_U90": 93200,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 66400,
+        "TONS": 75700,
+        "TONS_U90": 87100,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64600,
+        "TONS": 73700,
+        "TONS_U90": 82300,
+        "RollingAvg": 75660
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 62700,
+        "TONS": 71800,
+        "TONS_U90": 78800,
+        "RollingAvg": 77000
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 60800,
+        "TONS": 70500,
+        "TONS_U90": 77400,
+        "RollingAvg": 91100
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 62000,
+        "TONS": 71500,
+        "TONS_U90": 77900,
+        "RollingAvg": 100020
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 65800,
+        "TONS": 74600,
+        "TONS_U90": 80500,
+        "RollingAvg": 83300
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 68700,
+        "TONS": 76300,
+        "TONS_U90": 82500,
+        "RollingAvg": 75160
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 67500,
+        "TONS": 76300,
+        "TONS_U90": 83200,
+        "RollingAvg": 70480
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 66000,
+        "TONS": 76400,
+        "TONS_U90": 84300,
+        "RollingAvg": 65680
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 64300,
+        "TONS": 75600,
+        "TONS_U90": 83300,
+        "RollingAvg": 77120
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 61900,
+        "TONS": 72900,
+        "TONS_U90": 79600,
+        "RollingAvg": 93060
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 59600,
+        "TONS": 69900,
+        "TONS_U90": 76100,
+        "RollingAvg": 93760
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 55500,
+        "TONS": 66600,
+        "TONS_U90": 73000,
+        "RollingAvg": 107420
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 51000,
+        "TONS": 63100,
+        "TONS_U90": 71000,
+        "RollingAvg": 98840
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 46800,
+        "TONS": 59300,
+        "TONS_U90": 69200,
+        "RollingAvg": 72080
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TN",
+        "TONS_L90": 42300,
+        "TONS": 55600,
+        "TONS_U90": 66900,
+        "RollingAvg": 59500
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3300,
+        "TONS": 3830,
+        "TONS_U90": 4370,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3370,
+        "TONS": 3840,
+        "TONS_U90": 4310,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3440,
+        "TONS": 3860,
+        "TONS_U90": 4260,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3540,
+        "TONS": 3880,
+        "TONS_U90": 4220,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3600,
+        "TONS": 3920,
+        "TONS_U90": 4210,
+        "RollingAvg": 3228
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3630,
+        "TONS": 3960,
+        "TONS_U90": 4250,
+        "RollingAvg": 3608
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3690,
+        "TONS": 4010,
+        "TONS_U90": 4340,
+        "RollingAvg": 4814
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3640,
+        "TONS": 4030,
+        "TONS_U90": 4420,
+        "RollingAvg": 5300
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3450,
+        "TONS": 3930,
+        "TONS_U90": 4330,
+        "RollingAvg": 4717.8
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3340,
+        "TONS": 3830,
+        "TONS_U90": 4200,
+        "RollingAvg": 4001.8
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3350,
+        "TONS": 3840,
+        "TONS_U90": 4220,
+        "RollingAvg": 3809.8
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3420,
+        "TONS": 3880,
+        "TONS_U90": 4420,
+        "RollingAvg": 3047.8
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3480,
+        "TONS": 3890,
+        "TONS_U90": 4580,
+        "RollingAvg": 3197.8
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3480,
+        "TONS": 3840,
+        "TONS_U90": 4530,
+        "RollingAvg": 3642
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3450,
+        "TONS": 3790,
+        "TONS_U90": 4490,
+        "RollingAvg": 3766
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3430,
+        "TONS": 3750,
+        "TONS_U90": 4470,
+        "RollingAvg": 4812
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3400,
+        "TONS": 3720,
+        "TONS_U90": 4500,
+        "RollingAvg": 4668
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3340,
+        "TONS": 3700,
+        "TONS_U90": 4540,
+        "RollingAvg": 3946
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5490500,
+        "CONSTIT": "TP",
+        "TONS_L90": 3280,
+        "TONS": 3680,
+        "TONS_U90": 4610,
+        "RollingAvg": 3588
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 136000,
+        "TONS": 150000,
+        "TONS_U90": 159000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 138000,
+        "TONS": 150000,
+        "TONS_U90": 158000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 139000,
+        "TONS": 149000,
+        "TONS_U90": 156000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 140000,
+        "TONS": 148000,
+        "TONS_U90": 155000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 141000,
+        "TONS": 148000,
+        "TONS_U90": 153000,
+        "RollingAvg": 132320
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 143000,
+        "TONS": 148000,
+        "TONS_U90": 153000,
+        "RollingAvg": 124320
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 147000,
+        "TONS_U90": 152000,
+        "RollingAvg": 129520
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 147000,
+        "TONS_U90": 151000,
+        "RollingAvg": 153000
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 147000,
+        "TONS_U90": 151000,
+        "RollingAvg": 161200
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 143000,
+        "TONS": 149000,
+        "TONS_U90": 155000,
+        "RollingAvg": 163800
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 145000,
+        "TONS": 152000,
+        "TONS_U90": 160000,
+        "RollingAvg": 172600
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 147000,
+        "TONS": 155000,
+        "TONS_U90": 164000,
+        "RollingAvg": 169800
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 149000,
+        "TONS": 158000,
+        "TONS_U90": 167000,
+        "RollingAvg": 153800
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 145000,
+        "TONS": 156000,
+        "TONS_U90": 168000,
+        "RollingAvg": 134600
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 156000,
+        "TONS_U90": 170000,
+        "RollingAvg": 114840
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 147000,
+        "TONS": 162000,
+        "TONS_U90": 178000,
+        "RollingAvg": 124240
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 146000,
+        "TONS": 158000,
+        "TONS_U90": 172000,
+        "RollingAvg": 137640
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 143000,
+        "TONS": 153000,
+        "TONS_U90": 165000,
+        "RollingAvg": 139640
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 141000,
+        "TONS": 151000,
+        "TONS_U90": 161000,
+        "RollingAvg": 172640
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 136000,
+        "TONS": 145000,
+        "TONS_U90": 153000,
+        "RollingAvg": 190000
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 134000,
+        "TONS": 143000,
+        "TONS_U90": 150000,
+        "RollingAvg": 186000
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 136000,
+        "TONS": 143000,
+        "TONS_U90": 148000,
+        "RollingAvg": 166600
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 142000,
+        "TONS": 148000,
+        "TONS_U90": 153000,
+        "RollingAvg": 168000
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 149000,
+        "TONS": 156000,
+        "TONS_U90": 161000,
+        "RollingAvg": 155800
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 154000,
+        "TONS": 162000,
+        "TONS_U90": 167000,
+        "RollingAvg": 158400
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 158000,
+        "TONS": 166000,
+        "TONS_U90": 171000,
+        "RollingAvg": 138520
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 164000,
+        "TONS": 173000,
+        "TONS_U90": 180000,
+        "RollingAvg": 145120
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 165000,
+        "TONS": 174000,
+        "TONS_U90": 183000,
+        "RollingAvg": 158720
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 154000,
+        "TONS": 165000,
+        "TONS_U90": 174000,
+        "RollingAvg": 131540
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 149000,
+        "TONS": 158000,
+        "TONS_U90": 165000,
+        "RollingAvg": 121340
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 133000,
+        "TONS": 142000,
+        "TONS_U90": 148000,
+        "RollingAvg": 119540
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 125000,
+        "TONS": 136000,
+        "TONS_U90": 142000,
+        "RollingAvg": 122940
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 121000,
+        "TONS": 132000,
+        "TONS_U90": 138000,
+        "RollingAvg": 126740
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 123000,
+        "TONS": 132000,
+        "TONS_U90": 137000,
+        "RollingAvg": 149920
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 123000,
+        "TONS": 132000,
+        "TONS_U90": 139000,
+        "RollingAvg": 157720
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 125000,
+        "TONS": 133000,
+        "TONS_U90": 141000,
+        "RollingAvg": 155760
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 125000,
+        "TONS": 133000,
+        "TONS_U90": 141000,
+        "RollingAvg": 156560
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 126000,
+        "TONS": 133000,
+        "TONS_U90": 141000,
+        "RollingAvg": 135560
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 126000,
+        "TONS": 132000,
+        "TONS_U90": 140000,
+        "RollingAvg": 127160
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 126000,
+        "TONS": 131000,
+        "TONS_U90": 138000,
+        "RollingAvg": 125760
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 124000,
+        "TONS": 129000,
+        "TONS_U90": 134000,
+        "RollingAvg": 143000
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 123000,
+        "TONS": 127000,
+        "TONS_U90": 132000,
+        "RollingAvg": 129400
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 121000,
+        "TONS": 125000,
+        "TONS_U90": 129000,
+        "RollingAvg": 149000
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 119000,
+        "TONS": 124000,
+        "TONS_U90": 129000,
+        "RollingAvg": 153800
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 115000,
+        "TONS": 122000,
+        "TONS_U90": 127000,
+        "RollingAvg": 144200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TN",
+        "TONS_L90": 113000,
+        "TONS": 120000,
+        "TONS_U90": 127000,
+        "RollingAvg": 139400
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9740,
+        "TONS": 11400,
+        "TONS_U90": 12600,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9590,
+        "TONS": 10900,
+        "TONS_U90": 11900,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9360,
+        "TONS": 10400,
+        "TONS_U90": 11300,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9130,
+        "TONS": 9990,
+        "TONS_U90": 10700,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8880,
+        "TONS": 9560,
+        "TONS_U90": 10200,
+        "RollingAvg": 9214
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8570,
+        "TONS": 9180,
+        "TONS_U90": 9790,
+        "RollingAvg": 8704
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8170,
+        "TONS": 8730,
+        "TONS_U90": 9300,
+        "RollingAvg": 8990
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7730,
+        "TONS": 8320,
+        "TONS_U90": 8880,
+        "RollingAvg": 9446
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7400,
+        "TONS": 7990,
+        "TONS_U90": 8570,
+        "RollingAvg": 9348
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7160,
+        "TONS": 7740,
+        "TONS_U90": 8290,
+        "RollingAvg": 8928
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6940,
+        "TONS": 7520,
+        "TONS_U90": 8100,
+        "RollingAvg": 8966
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6770,
+        "TONS": 7400,
+        "TONS_U90": 7910,
+        "RollingAvg": 8554
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6720,
+        "TONS": 7330,
+        "TONS_U90": 7880,
+        "RollingAvg": 7964
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6580,
+        "TONS": 7170,
+        "TONS_U90": 7770,
+        "RollingAvg": 6862
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6510,
+        "TONS": 7140,
+        "TONS_U90": 7770,
+        "RollingAvg": 6314
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6610,
+        "TONS": 7260,
+        "TONS_U90": 7920,
+        "RollingAvg": 6228
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6350,
+        "TONS": 7030,
+        "TONS_U90": 7650,
+        "RollingAvg": 6210
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6480,
+        "TONS": 7050,
+        "TONS_U90": 7630,
+        "RollingAvg": 6148
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6730,
+        "TONS": 7270,
+        "TONS_U90": 7790,
+        "RollingAvg": 7448
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 6920,
+        "TONS": 7390,
+        "TONS_U90": 7830,
+        "RollingAvg": 8402
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7220,
+        "TONS": 7710,
+        "TONS_U90": 8120,
+        "RollingAvg": 8664
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7660,
+        "TONS": 8190,
+        "TONS_U90": 8610,
+        "RollingAvg": 8374
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8250,
+        "TONS": 8860,
+        "TONS_U90": 9310,
+        "RollingAvg": 8726
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9120,
+        "TONS": 9800,
+        "TONS_U90": 10400,
+        "RollingAvg": 8746
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9620,
+        "TONS": 10400,
+        "TONS_U90": 11200,
+        "RollingAvg": 8924
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9580,
+        "TONS": 10600,
+        "TONS_U90": 11500,
+        "RollingAvg": 8568
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9570,
+        "TONS": 11000,
+        "TONS_U90": 12100,
+        "RollingAvg": 9188
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9790,
+        "TONS": 11400,
+        "TONS_U90": 12700,
+        "RollingAvg": 10354
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9930,
+        "TONS": 11500,
+        "TONS_U90": 12700,
+        "RollingAvg": 9504
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 10200,
+        "TONS": 11400,
+        "TONS_U90": 12500,
+        "RollingAvg": 9320
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 10200,
+        "TONS": 11200,
+        "TONS_U90": 12100,
+        "RollingAvg": 9690
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9550,
+        "TONS": 10300,
+        "TONS_U90": 11000,
+        "RollingAvg": 8984
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9210,
+        "TONS": 9970,
+        "TONS_U90": 10600,
+        "RollingAvg": 8484
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 9000,
+        "TONS": 9820,
+        "TONS_U90": 10400,
+        "RollingAvg": 9734
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8800,
+        "TONS": 9720,
+        "TONS_U90": 10400,
+        "RollingAvg": 10672
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8910,
+        "TONS": 9830,
+        "TONS_U90": 10600,
+        "RollingAvg": 11534
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8950,
+        "TONS": 9870,
+        "TONS_U90": 10600,
+        "RollingAvg": 12130
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8990,
+        "TONS": 9860,
+        "TONS_U90": 10700,
+        "RollingAvg": 10896
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8840,
+        "TONS": 9760,
+        "TONS_U90": 10600,
+        "RollingAvg": 10456
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8880,
+        "TONS": 9700,
+        "TONS_U90": 10500,
+        "RollingAvg": 10036
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8830,
+        "TONS": 9660,
+        "TONS_U90": 10500,
+        "RollingAvg": 9656
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8830,
+        "TONS": 9610,
+        "TONS_U90": 10500,
+        "RollingAvg": 9866
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8630,
+        "TONS": 9420,
+        "TONS_U90": 10300,
+        "RollingAvg": 10750
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8450,
+        "TONS": 9240,
+        "TONS_U90": 10200,
+        "RollingAvg": 10324
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 8210,
+        "TONS": 9050,
+        "TONS_U90": 10000,
+        "RollingAvg": 10904
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7940,
+        "TONS": 8870,
+        "TONS_U90": 9970,
+        "RollingAvg": 10764
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7620,
+        "TONS": 8640,
+        "TONS_U90": 9920,
+        "RollingAvg": 10104
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5586300,
+        "CONSTIT": "TP",
+        "TONS_L90": 7360,
+        "TONS": 8460,
+        "TONS_U90": 9860,
+        "RollingAvg": 10058
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 411000,
+        "TONS": 488000,
+        "TONS_U90": 521000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 438000,
+        "TONS": 507000,
+        "TONS_U90": 538000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 464000,
+        "TONS": 523000,
+        "TONS_U90": 552000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 489000,
+        "TONS": 540000,
+        "TONS_U90": 568000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 514000,
+        "TONS": 557000,
+        "TONS_U90": 584000,
+        "RollingAvg": 412800
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 536000,
+        "TONS": 574000,
+        "TONS_U90": 608000,
+        "RollingAvg": 402000
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 555000,
+        "TONS": 589000,
+        "TONS_U90": 631000,
+        "RollingAvg": 440800
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 564000,
+        "TONS": 601000,
+        "TONS_U90": 652000,
+        "RollingAvg": 556400
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 566000,
+        "TONS": 605000,
+        "TONS_U90": 658000,
+        "RollingAvg": 663800
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 559000,
+        "TONS": 604000,
+        "TONS_U90": 661000,
+        "RollingAvg": 691800
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 548000,
+        "TONS": 600000,
+        "TONS_U90": 656000,
+        "RollingAvg": 712600
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 550000,
+        "TONS": 602000,
+        "TONS_U90": 658000,
+        "RollingAvg": 772200
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 532000,
+        "TONS": 585000,
+        "TONS_U90": 637000,
+        "RollingAvg": 759000
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 495000,
+        "TONS": 550000,
+        "TONS_U90": 597000,
+        "RollingAvg": 604400
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 474000,
+        "TONS": 533000,
+        "TONS_U90": 572000,
+        "RollingAvg": 483600
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 476000,
+        "TONS": 535000,
+        "TONS_U90": 578000,
+        "RollingAvg": 464600
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 461000,
+        "TONS": 517000,
+        "TONS_U90": 560000,
+        "RollingAvg": 429200
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 442000,
+        "TONS": 498000,
+        "TONS_U90": 535000,
+        "RollingAvg": 397200
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 439000,
+        "TONS": 493000,
+        "TONS_U90": 527000,
+        "RollingAvg": 547800
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 444000,
+        "TONS": 495000,
+        "TONS_U90": 525000,
+        "RollingAvg": 609800
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 455000,
+        "TONS": 498000,
+        "TONS_U90": 527000,
+        "RollingAvg": 636800
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 473000,
+        "TONS": 509000,
+        "TONS_U90": 536000,
+        "RollingAvg": 609000
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 484000,
+        "TONS": 516000,
+        "TONS_U90": 544000,
+        "RollingAvg": 601000
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 512000,
+        "TONS": 547000,
+        "TONS_U90": 582000,
+        "RollingAvg": 536200
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 531000,
+        "TONS": 567000,
+        "TONS_U90": 609000,
+        "RollingAvg": 585000
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 537000,
+        "TONS": 572000,
+        "TONS_U90": 611000,
+        "RollingAvg": 542800
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 556000,
+        "TONS": 593000,
+        "TONS_U90": 634000,
+        "RollingAvg": 571400
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 577000,
+        "TONS": 616000,
+        "TONS_U90": 659000,
+        "RollingAvg": 581200
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 578000,
+        "TONS": 617000,
+        "TONS_U90": 655000,
+        "RollingAvg": 503200
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 574000,
+        "TONS": 614000,
+        "TONS_U90": 647000,
+        "RollingAvg": 459600
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 570000,
+        "TONS": 610000,
+        "TONS_U90": 640000,
+        "RollingAvg": 485400
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 546000,
+        "TONS": 582000,
+        "TONS_U90": 611000,
+        "RollingAvg": 425000
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 566000,
+        "TONS": 605000,
+        "TONS_U90": 634000,
+        "RollingAvg": 435200
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 575000,
+        "TONS": 612000,
+        "TONS_U90": 637000,
+        "RollingAvg": 544600
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 562000,
+        "TONS": 596000,
+        "TONS_U90": 618000,
+        "RollingAvg": 579000
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 552000,
+        "TONS": 582000,
+        "TONS_U90": 602000,
+        "RollingAvg": 660800
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 545000,
+        "TONS": 574000,
+        "TONS_U90": 597000,
+        "RollingAvg": 749600
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 545000,
+        "TONS": 572000,
+        "TONS_U90": 597000,
+        "RollingAvg": 682000
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 544000,
+        "TONS": 568000,
+        "TONS_U90": 596000,
+        "RollingAvg": 633400
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 539000,
+        "TONS": 565000,
+        "TONS_U90": 594000,
+        "RollingAvg": 600600
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 528000,
+        "TONS": 561000,
+        "TONS_U90": 594000,
+        "RollingAvg": 533400
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 518000,
+        "TONS": 554000,
+        "TONS_U90": 588000,
+        "RollingAvg": 536000
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 508000,
+        "TONS": 545000,
+        "TONS_U90": 578000,
+        "RollingAvg": 639600
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 497000,
+        "TONS": 537000,
+        "TONS_U90": 572000,
+        "RollingAvg": 632800
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 488000,
+        "TONS": 529000,
+        "TONS_U90": 566000,
+        "RollingAvg": 723200
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 475000,
+        "TONS": 521000,
+        "TONS_U90": 561000,
+        "RollingAvg": 757800
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 457000,
+        "TONS": 509000,
+        "TONS_U90": 557000,
+        "RollingAvg": 674200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TN",
+        "TONS_L90": 441000,
+        "TONS": 499000,
+        "TONS_U90": 555000,
+        "RollingAvg": 611200
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 37100,
+        "TONS": 45200,
+        "TONS_U90": 51400,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 36400,
+        "TONS": 43600,
+        "TONS_U90": 49700,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 34900,
+        "TONS": 41700,
+        "TONS_U90": 47800,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 33600,
+        "TONS": 40000,
+        "TONS_U90": 45800,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 32200,
+        "TONS": 38400,
+        "TONS_U90": 43800,
+        "RollingAvg": 29980
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 30800,
+        "TONS": 36800,
+        "TONS_U90": 42000,
+        "RollingAvg": 28260
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 28700,
+        "TONS": 35000,
+        "TONS_U90": 40300,
+        "RollingAvg": 29580
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 27700,
+        "TONS": 33400,
+        "TONS_U90": 38500,
+        "RollingAvg": 34320
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 27200,
+        "TONS": 32000,
+        "TONS_U90": 36400,
+        "RollingAvg": 35040
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 26500,
+        "TONS": 30700,
+        "TONS_U90": 34800,
+        "RollingAvg": 35480
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 25300,
+        "TONS": 29000,
+        "TONS_U90": 33100,
+        "RollingAvg": 36480
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 24600,
+        "TONS": 27900,
+        "TONS_U90": 31600,
+        "RollingAvg": 37260
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 24300,
+        "TONS": 27300,
+        "TONS_U90": 30400,
+        "RollingAvg": 35840
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 23900,
+        "TONS": 26900,
+        "TONS_U90": 29900,
+        "RollingAvg": 29100
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 24200,
+        "TONS": 27100,
+        "TONS_U90": 30100,
+        "RollingAvg": 24490
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 23700,
+        "TONS": 27300,
+        "TONS_U90": 30200,
+        "RollingAvg": 21670
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 22400,
+        "TONS": 26000,
+        "TONS_U90": 28100,
+        "RollingAvg": 18870
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 21800,
+        "TONS": 25600,
+        "TONS_U90": 27500,
+        "RollingAvg": 18430
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 22700,
+        "TONS": 26800,
+        "TONS_U90": 29100,
+        "RollingAvg": 27550
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 23100,
+        "TONS": 28500,
+        "TONS_U90": 31600,
+        "RollingAvg": 31160
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 24100,
+        "TONS": 30200,
+        "TONS_U90": 34500,
+        "RollingAvg": 33340
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 25900,
+        "TONS": 32300,
+        "TONS_U90": 37300,
+        "RollingAvg": 34800
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 27800,
+        "TONS": 34200,
+        "TONS_U90": 39800,
+        "RollingAvg": 36380
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 30500,
+        "TONS": 37700,
+        "TONS_U90": 44300,
+        "RollingAvg": 33120
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 32700,
+        "TONS": 40500,
+        "TONS_U90": 48700,
+        "RollingAvg": 34720
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 33800,
+        "TONS": 42100,
+        "TONS_U90": 50200,
+        "RollingAvg": 33700
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 35100,
+        "TONS": 44600,
+        "TONS_U90": 52400,
+        "RollingAvg": 36740
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 37100,
+        "TONS": 45800,
+        "TONS_U90": 52800,
+        "RollingAvg": 36460
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 38700,
+        "TONS": 44900,
+        "TONS_U90": 49800,
+        "RollingAvg": 32540
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 40400,
+        "TONS": 44500,
+        "TONS_U90": 48000,
+        "RollingAvg": 32040
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 41300,
+        "TONS": 44100,
+        "TONS_U90": 46800,
+        "RollingAvg": 32580
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 38900,
+        "TONS": 41200,
+        "TONS_U90": 43600,
+        "RollingAvg": 27220
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 40900,
+        "TONS": 43100,
+        "TONS_U90": 45700,
+        "RollingAvg": 27360
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 40900,
+        "TONS": 43300,
+        "TONS_U90": 45900,
+        "RollingAvg": 35860
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 39500,
+        "TONS": 42000,
+        "TONS_U90": 44700,
+        "RollingAvg": 37680
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 38800,
+        "TONS": 41200,
+        "TONS_U90": 44200,
+        "RollingAvg": 46560
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 38300,
+        "TONS": 40500,
+        "TONS_U90": 43300,
+        "RollingAvg": 51760
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 36800,
+        "TONS": 39400,
+        "TONS_U90": 42100,
+        "RollingAvg": 47880
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 35200,
+        "TONS": 38000,
+        "TONS_U90": 40600,
+        "RollingAvg": 42860
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 33900,
+        "TONS": 36900,
+        "TONS_U90": 39300,
+        "RollingAvg": 42080
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 32800,
+        "TONS": 35900,
+        "TONS_U90": 38400,
+        "RollingAvg": 34540
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 32300,
+        "TONS": 35200,
+        "TONS_U90": 37500,
+        "RollingAvg": 34040
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 31400,
+        "TONS": 34400,
+        "TONS_U90": 36600,
+        "RollingAvg": 38240
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 30700,
+        "TONS": 33900,
+        "TONS_U90": 36300,
+        "RollingAvg": 38320
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 30200,
+        "TONS": 33500,
+        "TONS_U90": 36000,
+        "RollingAvg": 43940
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 29700,
+        "TONS": 33200,
+        "TONS_U90": 35800,
+        "RollingAvg": 46960
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 28900,
+        "TONS": 32800,
+        "TONS_U90": 35900,
+        "RollingAvg": 43460
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 5587455,
+        "CONSTIT": "TP",
+        "TONS_L90": 28300,
+        "TONS": 32500,
+        "TONS_U90": 36500,
+        "RollingAvg": 41620
+    },
+    {
+        "WY": 1973,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 791000,
+        "TONS": 846000,
+        "TONS_U90": 939000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1974,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 816000,
+        "TONS": 865000,
+        "TONS_U90": 949000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 844000,
+        "TONS": 886000,
+        "TONS_U90": 962000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 872000,
+        "TONS": 912000,
+        "TONS_U90": 979000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 895000,
+        "TONS": 933000,
+        "TONS_U90": 992000,
+        "RollingAvg": 844200
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 920000,
+        "TONS": 957000,
+        "TONS_U90": 1010000,
+        "RollingAvg": 729600
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 938000,
+        "TONS": 979000,
+        "TONS_U90": 1040000,
+        "RollingAvg": 686200
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 945000,
+        "TONS": 995000,
+        "TONS_U90": 1050000,
+        "RollingAvg": 638800
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 938000,
+        "TONS": 998000,
+        "TONS_U90": 1070000,
+        "RollingAvg": 695000
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 930000,
+        "TONS": 1000000,
+        "TONS_U90": 1080000,
+        "RollingAvg": 874200
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 922000,
+        "TONS": 994000,
+        "TONS_U90": 1070000,
+        "RollingAvg": 1006800
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 908000,
+        "TONS": 986000,
+        "TONS_U90": 1060000,
+        "RollingAvg": 1118200
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 892000,
+        "TONS": 969000,
+        "TONS_U90": 1050000,
+        "RollingAvg": 1178600
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 877000,
+        "TONS": 948000,
+        "TONS_U90": 1040000,
+        "RollingAvg": 1236600
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 869000,
+        "TONS": 941000,
+        "TONS_U90": 1050000,
+        "RollingAvg": 1180600
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 831000,
+        "TONS": 911000,
+        "TONS_U90": 1010000,
+        "RollingAvg": 958800
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 809000,
+        "TONS": 904000,
+        "TONS_U90": 1010000,
+        "RollingAvg": 728600
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 800000,
+        "TONS": 912000,
+        "TONS_U90": 1020000,
+        "RollingAvg": 687200
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 778000,
+        "TONS": 889000,
+        "TONS_U90": 1010000,
+        "RollingAvg": 674000
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 761000,
+        "TONS": 868000,
+        "TONS_U90": 980000,
+        "RollingAvg": 639800
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 764000,
+        "TONS": 853000,
+        "TONS_U90": 944000,
+        "RollingAvg": 875600
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 747000,
+        "TONS": 825000,
+        "TONS_U90": 896000,
+        "RollingAvg": 965000
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 727000,
+        "TONS": 800000,
+        "TONS_U90": 857000,
+        "RollingAvg": 1024000
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 730000,
+        "TONS": 793000,
+        "TONS_U90": 848000,
+        "RollingAvg": 980800
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 725000,
+        "TONS": 774000,
+        "TONS_U90": 821000,
+        "RollingAvg": 996800
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 746000,
+        "TONS": 794000,
+        "TONS_U90": 842000,
+        "RollingAvg": 862400
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 773000,
+        "TONS": 825000,
+        "TONS_U90": 876000,
+        "RollingAvg": 921200
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 780000,
+        "TONS": 834000,
+        "TONS_U90": 888000,
+        "RollingAvg": 814600
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 811000,
+        "TONS": 872000,
+        "TONS_U90": 936000,
+        "RollingAvg": 844600
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 840000,
+        "TONS": 905000,
+        "TONS_U90": 974000,
+        "RollingAvg": 826400
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 853000,
+        "TONS": 919000,
+        "TONS_U90": 988000,
+        "RollingAvg": 722400
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 857000,
+        "TONS": 930000,
+        "TONS_U90": 990000,
+        "RollingAvg": 649800
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 860000,
+        "TONS": 935000,
+        "TONS_U90": 988000,
+        "RollingAvg": 697600
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 833000,
+        "TONS": 897000,
+        "TONS_U90": 943000,
+        "RollingAvg": 613000
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 867000,
+        "TONS": 931000,
+        "TONS_U90": 979000,
+        "RollingAvg": 650600
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 876000,
+        "TONS": 937000,
+        "TONS_U90": 982000,
+        "RollingAvg": 813000
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 860000,
+        "TONS": 916000,
+        "TONS_U90": 962000,
+        "RollingAvg": 854600
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 841000,
+        "TONS": 896000,
+        "TONS_U90": 941000,
+        "RollingAvg": 1009200
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 841000,
+        "TONS": 895000,
+        "TONS_U90": 949000,
+        "RollingAvg": 1158200
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 846000,
+        "TONS": 897000,
+        "TONS_U90": 950000,
+        "RollingAvg": 1064000
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 851000,
+        "TONS": 893000,
+        "TONS_U90": 940000,
+        "RollingAvg": 1001400
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 838000,
+        "TONS": 887000,
+        "TONS_U90": 942000,
+        "RollingAvg": 951800
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 816000,
+        "TONS": 880000,
+        "TONS_U90": 947000,
+        "RollingAvg": 845400
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 794000,
+        "TONS": 863000,
+        "TONS_U90": 928000,
+        "RollingAvg": 865400
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 774000,
+        "TONS": 838000,
+        "TONS_U90": 893000,
+        "RollingAvg": 992400
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 746000,
+        "TONS": 814000,
+        "TONS_U90": 865000,
+        "RollingAvg": 966000
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 714000,
+        "TONS": 789000,
+        "TONS_U90": 836000,
+        "RollingAvg": 1130600
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 678000,
+        "TONS": 764000,
+        "TONS_U90": 817000,
+        "RollingAvg": 1183000
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 641000,
+        "TONS": 734000,
+        "TONS_U90": 792000,
+        "RollingAvg": 1029200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TN",
+        "TONS_L90": 603000,
+        "TONS": 705000,
+        "TONS_U90": 770000,
+        "RollingAvg": 930400
+    },
+    {
+        "WY": 1973,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 72700,
+        "TONS": 88100,
+        "TONS_U90": 98900,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1974,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 74700,
+        "TONS": 88900,
+        "TONS_U90": 99800,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 76700,
+        "TONS": 89400,
+        "TONS_U90": 101000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 77700,
+        "TONS": 89800,
+        "TONS_U90": 101000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 77600,
+        "TONS": 89400,
+        "TONS_U90": 101000,
+        "RollingAvg": 79740
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 77900,
+        "TONS": 89200,
+        "TONS_U90": 101000,
+        "RollingAvg": 75540
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 78600,
+        "TONS": 89500,
+        "TONS_U90": 103000,
+        "RollingAvg": 68600
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 79100,
+        "TONS": 88900,
+        "TONS_U90": 104000,
+        "RollingAvg": 67100
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 77200,
+        "TONS": 85500,
+        "TONS_U90": 96700,
+        "RollingAvg": 68320
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 74000,
+        "TONS": 81700,
+        "TONS_U90": 90700,
+        "RollingAvg": 73940
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 70800,
+        "TONS": 78200,
+        "TONS_U90": 86200,
+        "RollingAvg": 75940
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 67900,
+        "TONS": 76200,
+        "TONS_U90": 84000,
+        "RollingAvg": 81480
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 66400,
+        "TONS": 75000,
+        "TONS_U90": 82700,
+        "RollingAvg": 84620
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 63700,
+        "TONS": 72700,
+        "TONS_U90": 80000,
+        "RollingAvg": 90040
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 63500,
+        "TONS": 72000,
+        "TONS_U90": 78700,
+        "RollingAvg": 91980
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 62400,
+        "TONS": 70100,
+        "TONS_U90": 76700,
+        "RollingAvg": 76000
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 61200,
+        "TONS": 69700,
+        "TONS_U90": 76300,
+        "RollingAvg": 60900
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 61200,
+        "TONS": 70300,
+        "TONS_U90": 76900,
+        "RollingAvg": 56320
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 60300,
+        "TONS": 68900,
+        "TONS_U90": 75900,
+        "RollingAvg": 53820
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 58900,
+        "TONS": 68800,
+        "TONS_U90": 75600,
+        "RollingAvg": 48340
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 59300,
+        "TONS": 70300,
+        "TONS_U90": 77700,
+        "RollingAvg": 72120
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 59500,
+        "TONS": 71300,
+        "TONS_U90": 78500,
+        "RollingAvg": 80320
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 59700,
+        "TONS": 72600,
+        "TONS_U90": 80300,
+        "RollingAvg": 86400
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 63300,
+        "TONS": 75600,
+        "TONS_U90": 83100,
+        "RollingAvg": 86900
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 65600,
+        "TONS": 77400,
+        "TONS_U90": 84700,
+        "RollingAvg": 96200
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 71700,
+        "TONS": 84000,
+        "TONS_U90": 92800,
+        "RollingAvg": 81720
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 82200,
+        "TONS": 94000,
+        "TONS_U90": 104000,
+        "RollingAvg": 92020
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 87100,
+        "TONS": 99700,
+        "TONS_U90": 110000,
+        "RollingAvg": 84360
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 93800,
+        "TONS": 107000,
+        "TONS_U90": 118000,
+        "RollingAvg": 91340
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 97800,
+        "TONS": 111000,
+        "TONS_U90": 122000,
+        "RollingAvg": 86920
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 97000,
+        "TONS": 110000,
+        "TONS_U90": 122000,
+        "RollingAvg": 78880
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 96000,
+        "TONS": 111000,
+        "TONS_U90": 124000,
+        "RollingAvg": 69940
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 95900,
+        "TONS": 112000,
+        "TONS_U90": 124000,
+        "RollingAvg": 74720
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 89900,
+        "TONS": 103000,
+        "TONS_U90": 114000,
+        "RollingAvg": 60760
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 93100,
+        "TONS": 107000,
+        "TONS_U90": 120000,
+        "RollingAvg": 62260
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 93200,
+        "TONS": 107000,
+        "TONS_U90": 118000,
+        "RollingAvg": 79980
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 92000,
+        "TONS": 104000,
+        "TONS_U90": 114000,
+        "RollingAvg": 87320
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 92100,
+        "TONS": 104000,
+        "TONS_U90": 114000,
+        "RollingAvg": 114280
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 94800,
+        "TONS": 106000,
+        "TONS_U90": 116000,
+        "RollingAvg": 133840
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 97000,
+        "TONS": 108000,
+        "TONS_U90": 118000,
+        "RollingAvg": 127200
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 97200,
+        "TONS": 108000,
+        "TONS_U90": 118000,
+        "RollingAvg": 119800
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 96200,
+        "TONS": 106000,
+        "TONS_U90": 115000,
+        "RollingAvg": 115920
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 93800,
+        "TONS": 104000,
+        "TONS_U90": 113000,
+        "RollingAvg": 101720
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 91400,
+        "TONS": 102000,
+        "TONS_U90": 110000,
+        "RollingAvg": 103120
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 88100,
+        "TONS": 98200,
+        "TONS_U90": 105000,
+        "RollingAvg": 116320
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 85100,
+        "TONS": 95100,
+        "TONS_U90": 102000,
+        "RollingAvg": 113920
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 81800,
+        "TONS": 92100,
+        "TONS_U90": 98200,
+        "RollingAvg": 132600
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 78200,
+        "TONS": 89100,
+        "TONS_U90": 95300,
+        "RollingAvg": 132400
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 74200,
+        "TONS": 85700,
+        "TONS_U90": 92100,
+        "RollingAvg": 117860
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7022000,
+        "CONSTIT": "TP",
+        "TONS_L90": 70300,
+        "TONS": 82600,
+        "TONS_U90": 89100,
+        "RollingAvg": 105980
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1360,
+        "TONS": 1560,
+        "TONS_U90": 2090,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1400,
+        "TONS": 1590,
+        "TONS_U90": 2090,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1410,
+        "TONS": 1590,
+        "TONS_U90": 2070,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1370,
+        "TONS": 1560,
+        "TONS_U90": 1950,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1400,
+        "TONS": 1590,
+        "TONS_U90": 1970,
+        "RollingAvg": 1598
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1160,
+        "TONS": 1490,
+        "TONS_U90": 1850,
+        "RollingAvg": 1514
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1120,
+        "TONS": 1500,
+        "TONS_U90": 1830,
+        "RollingAvg": 1362.2
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1170,
+        "TONS": 1580,
+        "TONS_U90": 1890,
+        "RollingAvg": 1169.6
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1280,
+        "TONS": 1650,
+        "TONS_U90": 1960,
+        "RollingAvg": 1085.6
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1390,
+        "TONS": 1720,
+        "TONS_U90": 2000,
+        "RollingAvg": 1133.6
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1490,
+        "TONS": 1740,
+        "TONS_U90": 2000,
+        "RollingAvg": 1299.6
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1520,
+        "TONS": 1740,
+        "TONS_U90": 1960,
+        "RollingAvg": 1603.4
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1500,
+        "TONS": 1690,
+        "TONS_U90": 1880,
+        "RollingAvg": 1664
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1460,
+        "TONS": 1660,
+        "TONS_U90": 1860,
+        "RollingAvg": 1748
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1400,
+        "TONS": 1630,
+        "TONS_U90": 1840,
+        "RollingAvg": 2116
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1330,
+        "TONS": 1610,
+        "TONS_U90": 1850,
+        "RollingAvg": 2154
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1240,
+        "TONS": 1560,
+        "TONS_U90": 1860,
+        "RollingAvg": 2136
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TN",
+        "TONS_L90": 1170,
+        "TONS": 1530,
+        "TONS_U90": 1880,
+        "RollingAvg": 2170
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 249,
+        "TONS": 285,
+        "TONS_U90": 339,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 256,
+        "TONS": 290,
+        "TONS_U90": 339,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 263,
+        "TONS": 292,
+        "TONS_U90": 340,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 270,
+        "TONS": 295,
+        "TONS_U90": 343,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 276,
+        "TONS": 297,
+        "TONS_U90": 343,
+        "RollingAvg": 304.6
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 284,
+        "TONS": 303,
+        "TONS_U90": 348,
+        "RollingAvg": 306
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 284,
+        "TONS": 302,
+        "TONS_U90": 343,
+        "RollingAvg": 332.8
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 284,
+        "TONS": 303,
+        "TONS_U90": 343,
+        "RollingAvg": 310.4
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 282,
+        "TONS": 305,
+        "TONS_U90": 348,
+        "RollingAvg": 242.6
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 282,
+        "TONS": 312,
+        "TONS_U90": 360,
+        "RollingAvg": 238.2
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 285,
+        "TONS": 317,
+        "TONS_U90": 370,
+        "RollingAvg": 234.6
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 282,
+        "TONS": 320,
+        "TONS_U90": 380,
+        "RollingAvg": 225.2
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 278,
+        "TONS": 322,
+        "TONS_U90": 381,
+        "RollingAvg": 193.54
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 275,
+        "TONS": 326,
+        "TONS_U90": 387,
+        "RollingAvg": 191.74
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 275,
+        "TONS": 329,
+        "TONS_U90": 388,
+        "RollingAvg": 226.54
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 282,
+        "TONS": 338,
+        "TONS_U90": 400,
+        "RollingAvg": 236.34
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 298,
+        "TONS": 351,
+        "TONS_U90": 410,
+        "RollingAvg": 275.14
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 313,
+        "TONS": 361,
+        "TONS_U90": 416,
+        "RollingAvg": 338.4
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 315,
+        "TONS": 363,
+        "TONS_U90": 414,
+        "RollingAvg": 347.6
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 316,
+        "TONS": 366,
+        "TONS_U90": 414,
+        "RollingAvg": 373
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 315,
+        "TONS": 371,
+        "TONS_U90": 422,
+        "RollingAvg": 462.4
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 316,
+        "TONS": 378,
+        "TONS_U90": 436,
+        "RollingAvg": 479.8
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 311,
+        "TONS": 380,
+        "TONS_U90": 449,
+        "RollingAvg": 493
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7288650,
+        "CONSTIT": "TP",
+        "TONS_L90": 309,
+        "TONS": 385,
+        "TONS_U90": 466,
+        "RollingAvg": 520.8
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 801000,
+        "TONS": 944000,
+        "TONS_U90": 1000000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 880000,
+        "TONS": 1010000,
+        "TONS_U90": 1070000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 963000,
+        "TONS": 1080000,
+        "TONS_U90": 1130000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1040000,
+        "TONS": 1140000,
+        "TONS_U90": 1200000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1120000,
+        "TONS": 1210000,
+        "TONS_U90": 1280000,
+        "RollingAvg": 963800
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1190000,
+        "TONS": 1280000,
+        "TONS_U90": 1360000,
+        "RollingAvg": 1014600
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1250000,
+        "TONS": 1350000,
+        "TONS_U90": 1440000,
+        "RollingAvg": 1088800
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1280000,
+        "TONS": 1400000,
+        "TONS_U90": 1500000,
+        "RollingAvg": 1248000
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1310000,
+        "TONS": 1410000,
+        "TONS_U90": 1530000,
+        "RollingAvg": 1388000
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1320000,
+        "TONS": 1410000,
+        "TONS_U90": 1520000,
+        "RollingAvg": 1442000
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1290000,
+        "TONS": 1380000,
+        "TONS_U90": 1470000,
+        "RollingAvg": 1488000
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1250000,
+        "TONS": 1340000,
+        "TONS_U90": 1420000,
+        "RollingAvg": 1526000
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1220000,
+        "TONS": 1310000,
+        "TONS_U90": 1390000,
+        "RollingAvg": 1492000
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1180000,
+        "TONS": 1260000,
+        "TONS_U90": 1350000,
+        "RollingAvg": 1289000
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1150000,
+        "TONS": 1230000,
+        "TONS_U90": 1310000,
+        "RollingAvg": 1171000
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1120000,
+        "TONS": 1200000,
+        "TONS_U90": 1270000,
+        "RollingAvg": 1147000
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1100000,
+        "TONS": 1170000,
+        "TONS_U90": 1230000,
+        "RollingAvg": 1195000
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1070000,
+        "TONS": 1130000,
+        "TONS_U90": 1200000,
+        "RollingAvg": 1175000
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1060000,
+        "TONS": 1120000,
+        "TONS_U90": 1180000,
+        "RollingAvg": 1336000
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1040000,
+        "TONS": 1100000,
+        "TONS_U90": 1170000,
+        "RollingAvg": 1356000
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1020000,
+        "TONS": 1080000,
+        "TONS_U90": 1150000,
+        "RollingAvg": 1300000
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 985000,
+        "TONS": 1060000,
+        "TONS_U90": 1130000,
+        "RollingAvg": 1190800
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 964000,
+        "TONS": 1040000,
+        "TONS_U90": 1100000,
+        "RollingAvg": 1208800
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 971000,
+        "TONS": 1050000,
+        "TONS_U90": 1110000,
+        "RollingAvg": 1122800
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 972000,
+        "TONS": 1050000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 1122800
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 974000,
+        "TONS": 1060000,
+        "TONS_U90": 1130000,
+        "RollingAvg": 1035800
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 995000,
+        "TONS": 1080000,
+        "TONS_U90": 1150000,
+        "RollingAvg": 1071000
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1000000,
+        "TONS": 1080000,
+        "TONS_U90": 1170000,
+        "RollingAvg": 1043000
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1080000,
+        "TONS_U90": 1180000,
+        "RollingAvg": 980800
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1080000,
+        "TONS_U90": 1160000,
+        "RollingAvg": 948800
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1000000,
+        "TONS": 1070000,
+        "TONS_U90": 1130000,
+        "RollingAvg": 1021800
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 991000,
+        "TONS": 1040000,
+        "TONS_U90": 1100000,
+        "RollingAvg": 928600
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1110000,
+        "RollingAvg": 940600
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1040000,
+        "TONS": 1080000,
+        "TONS_U90": 1130000,
+        "RollingAvg": 1036800
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1030000,
+        "TONS": 1080000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 1032800
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1020000,
+        "TONS": 1070000,
+        "TONS_U90": 1110000,
+        "RollingAvg": 1098800
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1100000,
+        "RollingAvg": 1198000
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1110000,
+        "RollingAvg": 1114800
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 1060800
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 1033600
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 987600
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 1010000,
+        "TONS": 1060000,
+        "TONS_U90": 1110000,
+        "RollingAvg": 1025600
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 988000,
+        "TONS": 1040000,
+        "TONS_U90": 1090000,
+        "RollingAvg": 1130800
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 968000,
+        "TONS": 1020000,
+        "TONS_U90": 1070000,
+        "RollingAvg": 1122800
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 945000,
+        "TONS": 1000000,
+        "TONS_U90": 1050000,
+        "RollingAvg": 1278000
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 923000,
+        "TONS": 991000,
+        "TONS_U90": 1040000,
+        "RollingAvg": 1328000
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 887000,
+        "TONS": 967000,
+        "TONS_U90": 1020000,
+        "RollingAvg": 1238200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TN",
+        "TONS_L90": 854000,
+        "TONS": 946000,
+        "TONS_U90": 998000,
+        "RollingAvg": 1172800
+    },
+    {
+        "WY": 1975,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 79000,
+        "TONS": 107000,
+        "TONS_U90": 126000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1976,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 84700,
+        "TONS": 109000,
+        "TONS_U90": 125000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1977,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 90200,
+        "TONS": 110000,
+        "TONS_U90": 123000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1978,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 94600,
+        "TONS": 111000,
+        "TONS_U90": 121000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 1979,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 97200,
+        "TONS": 111000,
+        "TONS_U90": 121000,
+        "RollingAvg": 99380
+    },
+    {
+        "WY": 1980,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 98600,
+        "TONS": 111000,
+        "TONS_U90": 122000,
+        "RollingAvg": 104480
+    },
+    {
+        "WY": 1981,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 96000,
+        "TONS": 109000,
+        "TONS_U90": 118000,
+        "RollingAvg": 108960
+    },
+    {
+        "WY": 1982,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 92400,
+        "TONS": 106000,
+        "TONS_U90": 117000,
+        "RollingAvg": 111760
+    },
+    {
+        "WY": 1983,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 91000,
+        "TONS": 105000,
+        "TONS_U90": 118000,
+        "RollingAvg": 112360
+    },
+    {
+        "WY": 1984,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 89900,
+        "TONS": 105000,
+        "TONS_U90": 121000,
+        "RollingAvg": 105040
+    },
+    {
+        "WY": 1985,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 89500,
+        "TONS": 104000,
+        "TONS_U90": 119000,
+        "RollingAvg": 97060
+    },
+    {
+        "WY": 1986,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 90100,
+        "TONS": 103000,
+        "TONS_U90": 116000,
+        "RollingAvg": 98060
+    },
+    {
+        "WY": 1987,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 91300,
+        "TONS": 102000,
+        "TONS_U90": 115000,
+        "RollingAvg": 105900
+    },
+    {
+        "WY": 1988,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 91500,
+        "TONS": 103000,
+        "TONS_U90": 115000,
+        "RollingAvg": 99900
+    },
+    {
+        "WY": 1989,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 94500,
+        "TONS": 105000,
+        "TONS_U90": 117000,
+        "RollingAvg": 103420
+    },
+    {
+        "WY": 1990,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 99000,
+        "TONS": 109000,
+        "TONS_U90": 119000,
+        "RollingAvg": 109440
+    },
+    {
+        "WY": 1991,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 99800,
+        "TONS": 108000,
+        "TONS_U90": 117000,
+        "RollingAvg": 109840
+    },
+    {
+        "WY": 1992,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 97800,
+        "TONS": 106000,
+        "TONS_U90": 114000,
+        "RollingAvg": 108040
+    },
+    {
+        "WY": 1993,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 97000,
+        "TONS": 104000,
+        "TONS_U90": 112000,
+        "RollingAvg": 117440
+    },
+    {
+        "WY": 1994,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 96300,
+        "TONS": 103000,
+        "TONS_U90": 111000,
+        "RollingAvg": 118040
+    },
+    {
+        "WY": 1995,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 95600,
+        "TONS": 103000,
+        "TONS_U90": 111000,
+        "RollingAvg": 119600
+    },
+    {
+        "WY": 1996,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 94300,
+        "TONS": 103000,
+        "TONS_U90": 111000,
+        "RollingAvg": 113920
+    },
+    {
+        "WY": 1997,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 92800,
+        "TONS": 103000,
+        "TONS_U90": 111000,
+        "RollingAvg": 113520
+    },
+    {
+        "WY": 1998,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 94900,
+        "TONS": 106000,
+        "TONS_U90": 114000,
+        "RollingAvg": 107320
+    },
+    {
+        "WY": 1999,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 97600,
+        "TONS": 109000,
+        "TONS_U90": 117000,
+        "RollingAvg": 107720
+    },
+    {
+        "WY": 2000,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 99700,
+        "TONS": 112000,
+        "TONS_U90": 121000,
+        "RollingAvg": 99560
+    },
+    {
+        "WY": 2001,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 104000,
+        "TONS": 117000,
+        "TONS_U90": 128000,
+        "RollingAvg": 107240
+    },
+    {
+        "WY": 2002,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 109000,
+        "TONS": 121000,
+        "TONS_U90": 132000,
+        "RollingAvg": 108640
+    },
+    {
+        "WY": 2003,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 114000,
+        "TONS": 124000,
+        "TONS_U90": 136000,
+        "RollingAvg": 109840
+    },
+    {
+        "WY": 2004,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 115000,
+        "TONS": 126000,
+        "TONS_U90": 136000,
+        "RollingAvg": 111040
+    },
+    {
+        "WY": 2005,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 114000,
+        "TONS": 123000,
+        "TONS_U90": 132000,
+        "RollingAvg": 118600
+    },
+    {
+        "WY": 2006,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 110000,
+        "TONS": 118000,
+        "TONS_U90": 126000,
+        "RollingAvg": 104180
+    },
+    {
+        "WY": 2007,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 110000,
+        "TONS": 119000,
+        "TONS_U90": 127000,
+        "RollingAvg": 105780
+    },
+    {
+        "WY": 2008,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 111000,
+        "TONS": 121000,
+        "TONS_U90": 128000,
+        "RollingAvg": 110580
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 112000,
+        "TONS": 121000,
+        "TONS_U90": 128000,
+        "RollingAvg": 108580
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 112000,
+        "TONS": 121000,
+        "TONS_U90": 126000,
+        "RollingAvg": 119180
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 114000,
+        "TONS": 122000,
+        "TONS_U90": 127000,
+        "RollingAvg": 132000
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 115000,
+        "TONS": 123000,
+        "TONS_U90": 128000,
+        "RollingAvg": 124100
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 115000,
+        "TONS": 123000,
+        "TONS_U90": 128000,
+        "RollingAvg": 122100
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 115000,
+        "TONS": 122000,
+        "TONS_U90": 128000,
+        "RollingAvg": 123300
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 114000,
+        "TONS": 121000,
+        "TONS_U90": 127000,
+        "RollingAvg": 118700
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 114000,
+        "TONS": 120000,
+        "TONS_U90": 125000,
+        "RollingAvg": 123500
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 112000,
+        "TONS": 117000,
+        "TONS_U90": 123000,
+        "RollingAvg": 125140
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 110000,
+        "TONS": 116000,
+        "TONS_U90": 123000,
+        "RollingAvg": 124940
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 108000,
+        "TONS": 114000,
+        "TONS_U90": 122000,
+        "RollingAvg": 136540
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 106000,
+        "TONS": 113000,
+        "TONS_U90": 123000,
+        "RollingAvg": 138140
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 103000,
+        "TONS": 111000,
+        "TONS_U90": 123000,
+        "RollingAvg": 133740
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7373420,
+        "CONSTIT": "TP",
+        "TONS_L90": 101000,
+        "TONS": 109000,
+        "TONS_U90": 123000,
+        "RollingAvg": 135800
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 980000,
+        "TONS": 1070000,
+        "TONS_U90": 1150000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1030000,
+        "TONS": 1110000,
+        "TONS_U90": 1190000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1040000,
+        "TONS": 1120000,
+        "TONS_U90": 1190000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1060000,
+        "TONS": 1120000,
+        "TONS_U90": 1190000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1060000,
+        "TONS": 1120000,
+        "TONS_U90": 1180000,
+        "RollingAvg": 1036800
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1060000,
+        "TONS": 1130000,
+        "TONS_U90": 1180000,
+        "RollingAvg": 1030000
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1070000,
+        "TONS": 1130000,
+        "TONS_U90": 1190000,
+        "RollingAvg": 992000
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1060000,
+        "TONS": 1120000,
+        "TONS_U90": 1180000,
+        "RollingAvg": 1038000
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1030000,
+        "TONS": 1090000,
+        "TONS_U90": 1150000,
+        "RollingAvg": 1140000
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 1000000,
+        "TONS": 1070000,
+        "TONS_U90": 1120000,
+        "RollingAvg": 1121200
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 969000,
+        "TONS": 1040000,
+        "TONS_U90": 1090000,
+        "RollingAvg": 1257200
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 938000,
+        "TONS": 1020000,
+        "TONS_U90": 1070000,
+        "RollingAvg": 1291200
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 897000,
+        "TONS": 987000,
+        "TONS_U90": 1040000,
+        "RollingAvg": 1192400
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TN",
+        "TONS_L90": 848000,
+        "TONS": 957000,
+        "TONS_U90": 1010000,
+        "RollingAvg": 1114200
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 123000,
+        "TONS": 142000,
+        "TONS_U90": 151000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 132000,
+        "TONS": 149000,
+        "TONS_U90": 157000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 134000,
+        "TONS": 149000,
+        "TONS_U90": 156000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 137000,
+        "TONS": 150000,
+        "TONS_U90": 156000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 137000,
+        "TONS": 148000,
+        "TONS_U90": 155000,
+        "RollingAvg": 133220
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 138000,
+        "TONS": 148000,
+        "TONS_U90": 155000,
+        "RollingAvg": 136020
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 138000,
+        "TONS": 147000,
+        "TONS_U90": 154000,
+        "RollingAvg": 132420
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 137000,
+        "TONS": 145000,
+        "TONS_U90": 153000,
+        "RollingAvg": 143020
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 133000,
+        "TONS": 141000,
+        "TONS_U90": 148000,
+        "RollingAvg": 145200
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 130000,
+        "TONS": 137000,
+        "TONS_U90": 145000,
+        "RollingAvg": 143000
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 125000,
+        "TONS": 134000,
+        "TONS_U90": 143000,
+        "RollingAvg": 157800
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 121000,
+        "TONS": 131000,
+        "TONS_U90": 141000,
+        "RollingAvg": 157000
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 116000,
+        "TONS": 127000,
+        "TONS_U90": 140000,
+        "RollingAvg": 144200
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 7374525,
+        "CONSTIT": "TP",
+        "TONS_L90": 112000,
+        "TONS": 124000,
+        "TONS_U90": 138000,
+        "RollingAvg": 146000
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1360000,
+        "TONS": 1510000,
+        "TONS_U90": 1650000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1380000,
+        "TONS": 1510000,
+        "TONS_U90": 1630000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1390000,
+        "TONS": 1510000,
+        "TONS_U90": 1610000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1420000,
+        "TONS": 1520000,
+        "TONS_U90": 1600000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1420000,
+        "TONS": 1510000,
+        "TONS_U90": 1580000,
+        "RollingAvg": 1439400
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1420000,
+        "TONS": 1510000,
+        "TONS_U90": 1590000,
+        "RollingAvg": 1419400
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1410000,
+        "TONS": 1510000,
+        "TONS_U90": 1590000,
+        "RollingAvg": 1345400
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1400000,
+        "TONS": 1500000,
+        "TONS_U90": 1580000,
+        "RollingAvg": 1365400
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1390000,
+        "TONS": 1470000,
+        "TONS_U90": 1540000,
+        "RollingAvg": 1512000
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1360000,
+        "TONS": 1450000,
+        "TONS_U90": 1510000,
+        "RollingAvg": 1484000
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1330000,
+        "TONS": 1420000,
+        "TONS_U90": 1480000,
+        "RollingAvg": 1668000
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1290000,
+        "TONS": 1390000,
+        "TONS_U90": 1450000,
+        "RollingAvg": 1742000
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1230000,
+        "TONS": 1350000,
+        "TONS_U90": 1410000,
+        "RollingAvg": 1624000
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TN",
+        "TONS_L90": 1180000,
+        "TONS": 1320000,
+        "TONS_U90": 1380000,
+        "RollingAvg": 1534000
+    },
+    {
+        "WY": 2009,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 152000,
+        "TONS": 178000,
+        "TONS_U90": 201000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2010,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 154000,
+        "TONS": 177000,
+        "TONS_U90": 196000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2011,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 156000,
+        "TONS": 176000,
+        "TONS_U90": 193000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2012,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 159000,
+        "TONS": 176000,
+        "TONS_U90": 189000,
+        "RollingAvg": 0
+    },
+    {
+        "WY": 2013,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 159000,
+        "TONS": 174000,
+        "TONS_U90": 185000,
+        "RollingAvg": 161200
+    },
+    {
+        "WY": 2014,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 160000,
+        "TONS": 173000,
+        "TONS_U90": 183000,
+        "RollingAvg": 160000
+    },
+    {
+        "WY": 2015,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 159000,
+        "TONS": 172000,
+        "TONS_U90": 181000,
+        "RollingAvg": 152400
+    },
+    {
+        "WY": 2016,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 158000,
+        "TONS": 170000,
+        "TONS_U90": 180000,
+        "RollingAvg": 154200
+    },
+    {
+        "WY": 2017,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 156000,
+        "TONS": 167000,
+        "TONS_U90": 176000,
+        "RollingAvg": 164000
+    },
+    {
+        "WY": 2018,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 154000,
+        "TONS": 165000,
+        "TONS_U90": 173000,
+        "RollingAvg": 166400
+    },
+    {
+        "WY": 2019,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 151000,
+        "TONS": 163000,
+        "TONS_U90": 171000,
+        "RollingAvg": 185000
+    },
+    {
+        "WY": 2020,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 148000,
+        "TONS": 161000,
+        "TONS_U90": 171000,
+        "RollingAvg": 188400
+    },
+    {
+        "WY": 2021,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 144000,
+        "TONS": 157000,
+        "TONS_U90": 169000,
+        "RollingAvg": 182600
+    },
+    {
+        "WY": 2022,
+        "SITE_QW_ID": 322023090544500,
+        "CONSTIT": "TP",
+        "TONS_L90": 140000,
+        "TONS": 154000,
+        "TONS_U90": 169000,
+        "RollingAvg": 179200
+    }
+]
