@@ -1,5 +1,4 @@
 <script>
-  import { isMobile } from "../stores/global.js";
   const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN;
 
   // Main map dimensions
